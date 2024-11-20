@@ -1,4 +1,4 @@
-![ThisIsMe](https://i.imgur.com/JUtsYba.png)
+![ThisIsMe](https://media.licdn.com/dms/image/v2/D4E16AQFHGUMe8df4ig/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732062320207?e=1737590400&v=beta&t=HCzd2ajL9xtkgjqCedvBRgnHhe7QGooQmJbWquJb4Wk)
 
 ## Main Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
