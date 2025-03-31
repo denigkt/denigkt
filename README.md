@@ -1,4 +1,4 @@
-![ThisIsMe](https://i.imgur.com/sPFOov0.png)
+![ThisIsMe](https://i.imgur.com/PsdTFaD.png)
 
 ## Main Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
