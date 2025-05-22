@@ -1,4 +1,4 @@
-![Deni – Full Stack Developer](https://i.imgur.com/BkNxCY3.png)
+![Deni – Full Stack Developer](https://i.imgur.com/4XOMcUt.png)
 # Deni — Full Stack Developer  
 **Scalable Systems. Seamless UX. Thoughtful Code.**
 
