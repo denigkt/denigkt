@@ -1,52 +1,74 @@
-![ThisIsMe](https://i.imgur.com/PsdTFaD.png)
-
-# 👨‍💻 **Full-Stack Developer | Architecting Scalable, Modern Web Solutions** 🚀
-
-I am a **Full-Stack Developer** with a strong focus on **building performant web applications**, **optimizing user experiences**, and **delivering high-quality code**. Leveraging modern frameworks and technologies like **Next.js**, **TypeScript**, and **GraphQL**, I am passionate about creating **cutting-edge, scalable solutions** that empower users and drive innovation.
-
-## ⚡️ **Main Languages & Technologies** ⚡️
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Prisma](https://img.shields.io/badge/prisma-%2343B3AC.svg?style=for-the-badge&logo=prisma&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
-
-## 🎮 **Secondary Languages & Tools** 🎮
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-## 🏆 **Notable Achievements** 🏆
-
-- **Lead Developer at ONYX Role Play** – Pioneering custom multiplayer frameworks using **RAGE:MP** for an enhanced roleplay experience ([ONYX-Role-Play](https://github.com/ONYX-Role-Play))
-- **Contributor to Trilogy:MP** – Innovating multiplayer experiences in **GTA:DE**, elevating the online world ([Trilogy-Multiplayer](https://github.com/trilogy-multiplayer))
-- **Architected custom frameworks for PARADOX** – Advanced modding solutions for **GTA V** ([PARADOX-DE](https://github.com/PARADOX-DE))
-- **Contributed to Arcturus Morningstar** – Building next-gen emulators for **Habbo Hotel**
-
-## 🧠 **Core Skills** 🧠
-
-- **Full-Stack Development** – Expertise in **React**, **Next.js**, **Node.js**, **GraphQL**, and **Prisma** to build scalable, high-performance web applications.
-- **Web Optimization** – Using the latest **performance** and **scalability** techniques to ensure fast, responsive user experiences.
-- **Cloud-Native Development** – Architecting solutions using modern cloud platforms like **AWS**, **Vercel**, and **Docker**.
-- **API Design** – Creating robust, flexible APIs with **GraphQL** and **REST**.
-- **UI/UX Design & Development** – Creating visually stunning and highly intuitive interfaces with tools like **Tailwind CSS**, **Svelte**, and **Figma**.
-- **Game Modding & Frameworks** – Proficient in custom **GTA V modding**, including **RAGE:MP** and **FiveM** for creating immersive experiences.
-
-## 💡 **Philosophy** 💡
-
-I believe in **elegant code**, **highly scalable architecture**, and a **user-first approach** to design. With a deep understanding of both the **back-end** and **front-end**, I craft **solutions** that are not only functional but also delightful to use. I’m always excited to **learn**, **innovate**, and **solve problems** in the most **creative** and **efficient** ways.
+![Deni – Full Stack Developer](https://i.imgur.com/BkNxCY3.png)
+# Deni — Full Stack Developer  
+**Scalable Systems. Seamless UX. Thoughtful Code.**
 
 ---
 
-📬 **Get in Touch:** [deni@deni.dev](deni@deni.dev)
+## About
 
-🌍 **Let’s build the future of web apps.** 💻🌐
+I design and engineer modern web applications with a focus on **performance**, **architecture**, and **clarity**. My work spans **TypeScript**, **Next.js**, and **GraphQL**, grounded in clean design systems and real-world scalability.  
+I value **minimalism**, **efficiency**, and building products that simply work—beautifully.
+
+---
+
+## Stack
+
+**Core**  
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)]()  
+[![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs&logoColor=white)]()  
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)]()  
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)]()  
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)]()  
+[![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)]()  
+[![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white)]()
+
+**Tooling**  
+[![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white)]()  
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)]()  
+[![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)]()  
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)]()
+
+**Also Experienced In**  
+[![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)]()  
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)]()  
+[![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)]()
+
+---
+
+## Projects
+
+- **ONYX Role Play**  
+  Custom multiplayer infrastructure built on **RAGE:MP**.  
+  → [github.com/ONYX-Role-Play](https://github.com/ONYX-Role-Play)
+
+- **Trilogy:MP**  
+  Contributor to GTA:DE multiplayer enhancements.  
+  → [github.com/trilogy-multiplayer](https://github.com/trilogy-multiplayer)
+
+- **PARADOX Framework**  
+  Architected core systems for GTA V modding.  
+  → [github.com/PARADOX-DE](https://github.com/PARADOX-DE)
+
+- **Arcturus Morningstar**  
+  Emulator contributions for classic Habbo environments.
+
+---
+
+## Focus
+
+- **Architecture** → Scalable systems. Lean backend logic. Future-proof code.  
+- **UI/UX** → Interfaces that feel invisible. Built with Tailwind, React, and motion.  
+- **Performance** → Measured, optimized, shipped.  
+- **DevOps** → Docker-first workflows. Vercel, AWS, and edge deployments.  
+- **Multiplayer/Game Frameworks** → Deep expertise with **RAGE:MP**, **FiveM**, and custom engines.
+
+---
+
+## Contact
+
+📮 [deni@deni.dev](mailto:deni@deni.dev)  
+🌐 [deni.dev](https://deni.dev)
+
+---
+
+> *Quietly building. Always improving.*
